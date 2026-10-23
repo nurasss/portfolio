@@ -24,6 +24,10 @@ An **indicative US$45 paid pilot** covers a narrowly scoped check (for example, 
 
 For teams deploying AI support agents, chatbots or automations: evaluate sample conversations, handoff to humans, failure behavior, prompt-injection resilience at a basic application level, and repeatability. This is **application QA**, not a security audit or a guarantee of model safety.
 
+## See a sample deliverable
+
+[View a real, evidence-limited QA coverage review](QA_REPORT_SAMPLE.md) based on my own public CI workflow. It demonstrates the format of findings, evidence, severity/risk and next-step recommendations; it is **not** a claim of a completed client audit or a passing CI run.
+
 ## Public engineering examples
 
 - [Cashback ONE — CI pipeline](https://github.com/nurasss/cashback-one/blob/main/.github/workflows/ci.yml): repository workflow covering backend tests, lint/type checks, admin and mobile checks.
