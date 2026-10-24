@@ -144,6 +144,34 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
                 <span>Интерактивный CLI</span>
               </button>
             </div>
+
+            {/* Productized QA service: clear scope and non-binding indicative price */}
+            <div className="rounded-xl border border-cyan-500/30 bg-cyan-500/5 px-4 py-4 space-y-2">
+              <p className="text-sm font-semibold text-slate-100">
+                QA сопровождение релизов — ориентир $200/месяц
+              </p>
+              <p className="text-xs leading-relaxed text-slate-300">
+                До 8 часов согласованных проверок веб-приложений, API и AI-сценариев:
+                smoke/regression, баг-репорты и ретест. Небольшой пилот — ориентир $45.
+                Объём и условия согласовываются отдельно.
+              </p>
+              <div className="flex flex-wrap gap-3 items-center text-xs font-medium">
+                <a
+                  href="https://github.com/nurasss/portfolio/blob/main/SERVICES.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
+                >
+                  Услуги и пример отчёта ↗
+                </a>
+                <a
+                  href="mailto:bulatulynurasyl22@gmail.com?subject=QA%20pilot%20%2F%20monthly%20release%20checks"
+                  className="text-slate-100 hover:text-cyan-300 underline underline-offset-4"
+                >
+                  Обсудить QA-пилот ↗
+                </a>
+              </div>
+            </div>
           </div>
 
           {/* Right Column: Key Metrics & Architectural Principles Card */}
