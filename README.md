@@ -1,14 +1,29 @@
-# Портфолио и Резюме 2026 — Нурасыл Булатулы
+# Nurassyl Bulatuly — Web / API / AI Release QA
 
-> **Full-Stack Product Engineer / Backend & AI Systems**  
-> Астана, Казахстан | +7 705 459 0601 | [bulatulynurasyl22@gmail.com](mailto:bulatulynurasyl22@gmail.com)  
-> GitHub: [github.com/nurasss](https://github.com/nurasss) | Website: [nuras.space](https://nuras.space)
+**Remote, Kazakhstan · Full-stack engineer · Independent QA support for small SaaS teams, agencies and e-commerce.**
+
+### Release QA without a full-time hire
+
+**Indicative $45 scoped pilot** · **$200/month for up to 8 hours of agreed QA checks**
+
+Get a risk-prioritized smoke/regression checklist, reproducible defect reports, and fix retests. Scope can cover critical web journeys, representative API cases, responsive interfaces and AI workflows in an **authorized staging environment**.
+
+**[See service scope, pricing assumptions and sample deliverables →](SERVICES.md)**  
+**[View sample QA report →](QA_REPORT_SAMPLE.md)** · **[View CRO/landing-page QA checklist →](CRO_LANDING_PAGE_QA_SAMPLE.md)**  
+**Contact:** [bulatulynurasyl22@gmail.com](mailto:bulatulynurasyl22@gmail.com?subject=QA%20pilot%20%2F%20monthly%20release%20checks) — include product type, next release date and two key user flows.
+
+*Prices are indicative, not binding. Work, access, schedule, payment and terms are separately agreed. Public QA samples are demonstrations of engineering practice, not claims of paid client audits.*
+
+### По-русски
+
+**Внешний QA для веб-приложений, API и AI-функций.** Небольшой пилот — ориентир **$45**; регулярные проверки релизов — **$200/месяц за до 8 часов**. Проверки только с разрешения владельца, с отчётом о дефектах и рисках. [Условия и примеры →](SERVICES.md). Связь: **bulatulynurasyl22@gmail.com**.
 
 ---
 
-### 🔎 QA-сопровождение релизов / Release QA
+## Портфолио и резюме — Нурасыл Булатулы
 
-**Пилот от $45 · ориентир $200/месяц за до 8 часов.** Проверка веб-приложений, API и AI-сценариев с воспроизводимыми баг-репортами. [Услуги, границы работ и контакты →](SERVICES.md)
+> **Full-Stack Product Engineer / Backend & AI Systems**  
+> Астана, Казахстан · [GitHub](https://github.com/nurasss) · [QA services](SERVICES.md)
 
 ---
 
