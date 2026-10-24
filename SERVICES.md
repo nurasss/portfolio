@@ -24,6 +24,10 @@ An **indicative US$45 paid pilot** covers a narrowly scoped check (for example, 
 
 For teams deploying AI support agents, chatbots or automations: evaluate sample conversations, handoff to humans, failure behavior, prompt-injection resilience at a basic application level, and repeatability. This is **application QA**, not a security audit or a guarantee of model safety.
 
+## For QA agencies: overflow / subcontract work
+
+[See the project-based QA subcontractor capability brief](QA_SUBCONTRACTOR_PROFILE.md) for a bounded release-check assignment, public engineering evidence, and collaboration boundaries. This is not a claim of paid client experience.
+
 ## See a sample deliverable
 
 [View a real, evidence-limited QA coverage review](QA_REPORT_SAMPLE.md) based on my own public CI workflow. It demonstrates the format of findings, evidence, severity/risk and next-step recommendations; it is **not** a claim of a completed client audit or a passing CI run.
