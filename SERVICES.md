@@ -32,6 +32,10 @@ For teams deploying AI support agents, chatbots or automations: evaluate sample 
 
 [View a real, evidence-limited QA coverage review](QA_REPORT_SAMPLE.md) based on my own public CI workflow. It demonstrates the format of findings, evidence, severity/risk and next-step recommendations; it is **not** a claim of a completed client audit or a passing CI run.
 
+## CRO and A/B landing-page QA example
+
+[See a concrete, clearly unexecuted A/B testing checklist and hypothetical defect-report format](CRO_LANDING_PAGE_QA_SAMPLE.md), covering variant consistency, conversion events, mobile CTAs, consent, and attribution. This is a sample plan, **not** a claim of having tested a client website.
+
 ## Public engineering examples
 
 - [Cashback ONE — CI pipeline](https://github.com/nurasss/cashback-one/blob/main/.github/workflows/ci.yml): repository workflow covering backend tests, lint/type checks, admin and mobile checks.
