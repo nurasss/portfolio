@@ -157,12 +157,12 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
               </p>
               <div className="flex flex-wrap gap-3 items-center text-xs font-medium">
                 <a
-                  href="https://github.com/nurasss/portfolio/blob/main/SERVICES.md"
+                  href="/qa-services.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
                 >
-                  Услуги и пример отчёта ↗
+                  QA services / English ↗
                 </a>
                 <a
                   href="mailto:bulatulynurasyl22@gmail.com?subject=QA%20pilot%20%2F%20monthly%20release%20checks"
