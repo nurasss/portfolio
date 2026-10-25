@@ -10,6 +10,7 @@ Get a risk-prioritized smoke/regression checklist, reproducible defect reports, 
 
 **[See service scope, pricing assumptions and sample deliverables →](SERVICES.md)**  
 **[View sample QA report →](QA_REPORT_SAMPLE.md)** · **[View CRO/landing-page QA checklist →](CRO_LANDING_PAGE_QA_SAMPLE.md)**  
+**[Web / API QA CV (English) →](QA_CV.md)**  
 **Contact:** [bulatulynurasyl22@gmail.com](mailto:bulatulynurasyl22@gmail.com?subject=QA%20pilot%20%2F%20monthly%20release%20checks) — include product type, next release date and two key user flows.
 
 *Prices are indicative, not binding. Work, access, schedule, payment and terms are separately agreed. Public QA samples are demonstrations of engineering practice, not claims of paid client audits.*
